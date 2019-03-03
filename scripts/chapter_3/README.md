@@ -1,4 +1,4 @@
-# Chapter 2: Raw sockets and sniffing
+# Chapter 3: Raw sockets and sniffing
 
 ## Scripts
 
